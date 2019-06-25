@@ -1,0 +1,2 @@
+1. Improving SVC for one class classifier
+2. Improving graphs for supervised learning examples
