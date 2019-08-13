@@ -20,4 +20,11 @@ To learn more about sklearn - [sklearn](https://scikit-learn.org/stable/).
 
 ## Project
 
-In the project notebook, 
+In the project notebook, the data is preprocessed and shown in csv format.
+The following applications are implemented on data :
+> 1. Log Transform
+> 2. Normalizing Numerical Features
+> 3. One-hot encoding
+> 4. Naive Predictor
+> 5. sk_learn
+> 6. Classifier -AdaBoostClassifier
